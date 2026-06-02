@@ -1,4 +1,4 @@
-# Maapas Interactivos – totales generales
+# Mapas Interactivos – totales generales
 
 Este repositorio contiene visualizaciones interactivas de los créditos otorgados por las líneas de la Subsecretaría de Desarrollo Comercial **impulso al comercio Bonaerense** y el programa **Emprendé tu Comercio** en diferentes etapas.
 
